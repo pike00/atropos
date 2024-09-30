@@ -1,0 +1,18 @@
+Package: atropos
+Type: Package
+Title: Provides Theming Consistent with Atropos Health
+Version: 0.1.0
+Author: Will Pike
+Maintainer: Will Pike <will.pike@atroposhealth.com>
+License: Copyright (C) by Atropos Health, 2024. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. 
+Description: Provides a consistent theme for ggplot2 plots that is consistent with the Atropos Health brand.
+Encoding: UTF-8
+Imports: 
+  ggplot2, 
+  extrafont, 
+  scales, 
+  tidyverse
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

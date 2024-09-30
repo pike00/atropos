@@ -1,1 +1,6 @@
 exportPattern("^[[:alpha:]]+")
+
+import(extrafont)
+import(ggplot2)
+import(tidyverse)
+import(scales)
