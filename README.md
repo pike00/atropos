@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/pike00/atropos/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pike00/atropos/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of this library is to provide a centralized repository to
