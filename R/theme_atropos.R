@@ -187,4 +187,4 @@ update_geom_font_defaults <- function(family="Lato", face="plain", size=3.5,
   update_geom_defaults("label", list(family=family, face=face, size=size, color=color))
 }
 
-update_geom_font_defaults()
+# update_geom_font_defaults()
